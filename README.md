@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Issuko-Adam, a literature student. 
 - 👀 I’m interested in learning more about computer science  
-- 🌱 I’m currently learning HTML & CSS, an introduction to my journey ⚔️
 - 📫 How to reach me: Discord: Issuko#0480 (don't hesitate I'm friendly)
 
 <!---
