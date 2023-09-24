@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Issuko-Adam, a literature student. 
+- 👋 Hi, I’m @Issuko-Adam, former literature student, and now studying at Iut de Paris - Rives de Seine. 
 - 👀 I’m interested in learning more about computer science  
 - 📫 How to reach me: Discord: Issuko#0480 (don't hesitate I'm friendly)
 
