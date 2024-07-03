@@ -55,7 +55,7 @@
 ###
 
 <div align="center">
-  <img height="" src="https://cdn.discordapp.com/attachments/772857561668911134/1252026940764852314/frieren.png?ex=6670b874&is=666f66f4&hm=be859b164199209f6fb47e8b9e2afe07e9704e4251d5b18e34f5c33c292d2392&"  />
+  <img height="" src="https://i.imgur.com/hJWwZXo.jpeg&"  />
 </div>
 
 ###
